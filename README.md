@@ -5,13 +5,6 @@
 
 <div align="center">
   
-  <!-- Profile Views Badge -->
-  <a href="https://github.com/your-username">
-    <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Profile Views" />
-  </a>
-
-  <br><br>
-
   <!-- Animated Header / Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%20👋%20What's%20Up?&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=58&descAlign=50" alt="Header Banner" />
   
@@ -82,32 +75,6 @@
 
 <br>
 
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
-<div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-
-  <br><br>
-
-  <!-- GitHub Stats and Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
-  <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
-
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
-<br>
 
 ---
 
