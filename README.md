@@ -234,7 +234,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
   <img width="15" />
-  <a href="mailto:isyan23ti@mahasiswa.pcr.ac.id">
+  <a href="mailto:muhammadisyan0@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email badge" />
   </a>
 </p>
