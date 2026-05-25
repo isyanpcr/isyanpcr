@@ -11,10 +11,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="55" alt="csharp logo" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="55" alt="php logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=python" height="55" alt="python logo" />
@@ -56,8 +52,6 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="csharp" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
   <img width="10" />
@@ -167,12 +161,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=false&margin-w=10" height="160" alt="trophy graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="180" alt="top languages" />
 </div>
 
 ---
